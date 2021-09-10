@@ -44,7 +44,7 @@ java -jar /opt/jetty/start.jar --add-to-startd=setuid
 cd /
 
 # Clone the source repository.
-git clone https://github.com/joshbarcher/java-simple-compute-deploy
+git clone https://github.com/archerjb/spring-simple-compute-deploy
 cd java-simple-compute-deploy
 
 # Build the .war file and rename.
